@@ -2,13 +2,13 @@
 
 Repositório destinado à documentação do Projeto Integrador (PI) – Planalto, reunindo as informações, análises e modelagens necessárias para o desenvolvimento do site.
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O PI – Planalto tem como objetivo documentar o processo de planejamento e desenvolvimento de um site, desde o levantamento inicial das informações até a modelagem estrutural do sistema.
 
 Este repositório centraliza os documentos do projeto, facilitando a organização, o acompanhamento e a consulta das etapas de desenvolvimento.
 
-## 📂 Documentação do Projeto
+## Documentação do Projeto
 
 A documentação está dividida em cinco etapas principais:
 
@@ -27,7 +27,7 @@ Representação das interações entre os usuários e o sistema, identificando o
 5. Diagrama de Classes
 Representação da estrutura do sistema por meio de classes, atributos, métodos e relacionamentos, contribuindo para a compreensão e a modelagem da solução.
 
-## 🗂️ Estrutura do Repositório
+## Estrutura do Repositório
 
 A documentação será organizada da seguinte forma:
 
@@ -47,7 +47,7 @@ PI-Planalto/
 └── 05-Diagrama-de-Classes/
 Cada pasta será destinada aos documentos correspondentes à sua respectiva etapa do projeto.
 
-## 🎯 Objetivo do Repositório
+## Objetivo do Repositório
 
 Centralizar a documentação do projeto.
 Organizar as etapas de planejamento e modelagem do site.
@@ -56,7 +56,7 @@ Manter os documentos acessíveis para consulta e colaboração entre os integran
 🛠️ Tecnologias e Ferramentas
 As ferramentas utilizadas serão definidas conforme as necessidades de documentação, modelagem e desenvolvimento do projeto.
 
-## 👥 Equipe
+## Equipe
 
 Projeto: PI – Planalto
 Tipo: Projeto Integrador
